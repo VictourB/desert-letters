@@ -1,0 +1,35 @@
+- Abolish ICE and arrest all ICE agents with domestic terrorism as well as any other crimes they may have committed. 
+- Arrest all Donald Trump and his associates for their numerous crimes, which there are too many to list. 
+- Release the unredacted Epstein files to the public and arrest those who are exposed by them. 
+- Defund the police state infrastructure and reduce the amount of prisons and prisoners to be in line with other nations. 
+- Audit all judges, prosecutors, legal officials, police officers, etc. to determine if they should remain employed or should instead be fired / charged with abuse of power. 
+- Require all police officers to undergo at least 100 hours of civics and law training. Allow violation settlements to come directly from the officers themselves. 
+- Audit the CIA, FBI, Homeland Security, and the Pentagon, make them accountable for all actions and spending. Wrangle in the rogue agencies. 
+- Decriminalize all drugs and instead offer medical treatment and support for those afflicted by them
+- End all aggression and violence against Iran. 
+- End all support, financial and otherwise for Israel and condemn them for the genocide in Palestine. 
+- Work towards an acceptable peace in Ukraine. 
+- Rebuild trust with our allies in Europe and across the world. 
+- Build lost-lasting and good faith relationships with Russia and China. 
+- Sunset and decommission many of the 800+ military installations abroad. 
+- Ban the use of ALPR and all other forms of mass surveillance.
+- Nationalize the oil and gas industry as a matter of national security, so that fuel prices cannot be controlled by the foreign policy of the executive branch. 
+- Foster a national assessment of the Judicial branch and especially the Supreme Court. Reform the Constitution to put limits on service. 
+- Reverse the Citizens United decision and make it clear that corporations do not have political rights and cannot influence the nation. 
+- Abolish for-profit rental housing and institute a system that will allow for near ubiquitous home ownership regardless of Income. 
+- Abolish private for-profit medical practices and private health insurance. Implement a comprehensive system to ensure low-cost public medical care for all people in the country. 
+- de-escalate the use of fossil fuels, especially in commuter transport. Implement an extensive low-cost electric transport system for inter and intra city transportation. 
+- Release Nicolas Maduro from state custody and return him to power in Venezuela. 
+- Break up many of the large conglomerates and monopolies that have formed over the last few decades. Alphabet, Meta, Paramount Skydance, Disney, Berkshire Hathaway, Janel, Koch Industries, Honeywell International, Amazon, Walmart, and many others. 
+- Take immediate action to lower the cost of fuel and food across the country without simply giving into the whims of corporate America. 
+- Dismantle Monsanto and allow farmers to collect and resow their seeds. 
+- Enact right-to-repair and right-to-modify legislation so that consumers have the abilities and tools to control their property. 
+- Rollback Intellectual Property privledges and make DNA non-copyrightable. 
+- Curtail the outrageous and illegal powers of the Federal government and return many rights back to the states, as was intended by our founding documents. 
+- Protect the right of The People to bear arms and offer legal protections to use those arms in the resistance of tyranny. 
+- Take immediate and aggressive steps to end the legal bribery, known as lobbying, in this country. 
+- End the inhumane embargo placed upon the Cuban people. 
+- Ban private equity firms from owning homes. 
+- implement a state-run car insurance program. 
+- Force all AI algorithms to be made open-source. Ban the private collection of user data wholecloth. 
+- force all private employers to tie wage increases in line with inflation percentage 

@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Desert Letters'
+
+theme = 'papermod'
+
+
+[params.homeInfoParams]
+Title = "Welcome to Desert Letters!"
+Content = "Hi, I'm Victour. I write stories, reviews, articles, or whatever else strikes me."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/VictourB"
+
+[[menu.main]]
+name = "Welcome"
+url = "/about/"
+weight = 10
