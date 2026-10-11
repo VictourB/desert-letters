@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "misc/Tips for Blog Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about.md",
+                "file": "misc/Tips for Blog Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about.md",
+                "file": "misc/Tips for Blog Writing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,9 +190,13 @@
   },
   "active": "d99d37f657608505",
   "lastOpenFiles": [
+    "misc/Tips for Blog Writing.md",
+    "misc/Brainstorming Ideas.md",
     "misc/Blog Tasks.md",
-    "content/posts/welcome.md",
+    "misc/Blog Intro Post.md",
+    "misc/Platform for Fixing the Country.md",
     "content/about.md",
+    "content/posts/welcome.md",
     "public/assets/css/stylesheet.1edfa2e6b5f37ca24952639cea9edc5be69cc0a830aed9c644898fc2f76653e1.css",
     "public/assets/css/stylesheet.0035f18c946503408d539998f9b9f9d88ba8d474d6748505ef08043218b0e2a1.css",
     "assets/css/extended",
@@ -202,10 +206,6 @@
     "assets/css.md",
     "public/about/index.html",
     "public/about",
-    "misc/Tips for Blog Writing.md",
-    "misc/Platform for Fixing the Country.md",
-    "misc/Brainstorming Ideas.md",
-    "misc/Blog Intro Post.md",
     "misc",
     "public/posts/welcome/index.html",
     "public/posts/welcome",
