@@ -1,4 +1,4 @@
-baseURL = 'desertletters.us/'
+baseURL = 'https://desertletters.us/'
 locale = 'en-us'
 title = 'Desert Letters'
 
