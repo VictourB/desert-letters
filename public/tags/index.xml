@@ -6,6 +6,35 @@
     <description>Recent content in Tags on Desert Letters</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 11 Oct 2026 19:35:17 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character-Sheet</title>
+      <link>http://localhost:1313/tags/character-sheet/</link>
+      <pubDate>Sun, 11 Oct 2026 19:35:17 -0600</pubDate>
+      <guid>http://localhost:1313/tags/character-sheet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FalloutNV</title>
+      <link>http://localhost:1313/tags/falloutnv/</link>
+      <pubDate>Sun, 11 Oct 2026 19:35:17 -0600</pubDate>
+      <guid>http://localhost:1313/tags/falloutnv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Johnny-Firespring</title>
+      <link>http://localhost:1313/tags/johnny-firespring/</link>
+      <pubDate>Sun, 11 Oct 2026 19:35:17 -0600</pubDate>
+      <guid>http://localhost:1313/tags/johnny-firespring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JohnnyFirespring</title>
+      <link>http://localhost:1313/tags/johnnyfirespring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/johnnyfirespring/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

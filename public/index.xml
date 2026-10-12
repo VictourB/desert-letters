@@ -6,33 +6,23 @@
     <description>Recent content on Desert Letters</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 19:17:06 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:35:17 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Johnny Firespring Character Sheet</title>
+      <link>http://localhost:1313/posts/johnnyfirespringcharactersheet/</link>
+      <pubDate>Sun, 11 Oct 2026 19:35:17 -0600</pubDate>
+      <guid>http://localhost:1313/posts/johnnyfirespringcharactersheet/</guid>
+      <description>A Fallout New Vegas character sheet for Johnny Firespring, a young  hotheaded man with a lot to prove.</description>
+    </item>
     <item>
       <title>Welcome &amp; About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 10 Oct 2026 19:17:06 -0600</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h3 id=&#34;why-even&#34;&gt;Why Even?&lt;/h3&gt;
-&lt;p&gt;I want to blog, even if the medium has been thoroughly commodified. Expressing yourself online without a concern for image or money is almost unheard of nowadays, but I need this space to get some thoughts out of my head. The dangers of indulging in a journal too much are evident. It&amp;rsquo;s unhealthy to have so many thoughts alone, it&amp;rsquo;ll drive a man mad.&lt;/p&gt;
+&lt;p&gt;I want to blog, even if the medium has been thoroughly commodified. Expressing yourself online without a concern for image or money is almost unheard of nowadays, but I need this space to get some thoughts out of my head. The dangers of over-journaling are evident. It&amp;rsquo;s unhealthy to have so many thoughts alone; it&amp;rsquo;ll drive a man mad.&lt;/p&gt;
 &lt;p&gt;So this space is part idea board, part diary, part sanity check, part manifesto canvas, and part whatever else. Just a brief glimpse into my dark and twisted mind as I scream myself hoarse into the void of a billion faceless text boxes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome</title>
-      <link>http://localhost:1313/posts/welcome/</link>
-      <pubDate>Sat, 10 Oct 2026 18:10:59 -0600</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
-      <description>&lt;h3 id=&#34;why-even&#34;&gt;Why Even?&lt;/h3&gt;
-&lt;p&gt;I want to blog, even if the medium has been thoroughly commodified. Expressing yourself online without a concern for image or money is almost unheard of nowadays, but I need this space to get some thoughts out of my head. The dangers of indulging in a journal too much are evident. It&amp;rsquo;s unhealthy to have so many thoughts alone, it&amp;rsquo;ll drive a man mad.&lt;/p&gt;
-&lt;p&gt;So this space is part idea board, part diary, part sanity check, part manifesto canvas, and part whatever else. Just a brief glimpse into my dark and twisted mind as I scream myself hoarse into the void of a billion faceless text boxes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test Post</title>
-      <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Sat, 10 Oct 2026 17:58:45 -0600</pubDate>
-      <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>&lt;h1 id=&#34;testing-testing-1-2-3&#34;&gt;Testing, Testing, 1, 2, 3&lt;/h1&gt;
-&lt;p&gt;This is a test post to try to make this work. Please like and subscribe.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

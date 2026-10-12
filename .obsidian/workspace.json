@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/JohnnyFirespringCharacterSheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "JohnnyFirespringCharacterSheet"
             }
           }
         ]
@@ -190,25 +190,27 @@
   },
   "active": "d99d37f657608505",
   "lastOpenFiles": [
+    "public/tags/johnny-firespring/index.xml",
+    "public/tags/johnny-firespring/page/1/index.html",
+    "public/tags/johnny-firespring/page/1",
+    "public/tags/johnny-firespring/page",
+    "public/tags/johnny-firespring/index.html",
+    "public/tags/johnny-firespring",
+    "public/tags/johnnyfirespring/page/1/index.html",
+    "public/tags/johnnyfirespring/page/1",
+    "public/tags/johnnyfirespring/page",
+    "public/tags/johnnyfirespring/index.xml",
+    "public/tags/johnnyfirespring/index.html",
+    "content/about.md",
+    "content/posts/JohnnyFirespringCharacterSheet.md",
     "misc/Tips for Blog Writing.md",
     "misc/Brainstorming Ideas.md",
     "misc/Blog Tasks.md",
     "misc/Blog Intro Post.md",
     "misc/Platform for Fixing the Country.md",
-    "content/about.md",
     "content/posts/welcome.md",
-    "public/assets/css/stylesheet.1edfa2e6b5f37ca24952639cea9edc5be69cc0a830aed9c644898fc2f76653e1.css",
-    "public/assets/css/stylesheet.0035f18c946503408d539998f9b9f9d88ba8d474d6748505ef08043218b0e2a1.css",
-    "assets/css/extended",
-    "assets/css/extended/custom.css",
     "assets/css/extended.css.md",
-    "assets/css",
     "assets/css.md",
-    "public/about/index.html",
-    "public/about",
-    "misc",
-    "public/posts/welcome/index.html",
-    "public/posts/welcome",
     "content/posts/test-post.md",
     "themes/papermod/README.md",
     "file:/home/main/Documents/Desert Letters (old)/Blog Tasks.md",
