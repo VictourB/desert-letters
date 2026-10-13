@@ -11,7 +11,7 @@ filename = 'sitemap.xml'
 priority = 0.8
 
 [params]
-description = 'Personal essays, stories and reflections.'
+description = "Hi, I'm Victour. I write stories, reviews, articles, or whatever else strikes me."
 author = 'Victour'
 images = ['images/og-cover.png'] # Default preview image for link shares
 
