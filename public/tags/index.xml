@@ -6,8 +6,8 @@
     <description>Recent content in Tags on Desert Letters</description>
     <image>
       <title>Desert Letters</title>
-      <url>http://localhost:1313/static/favicon/android-chrome-512x512.png</url>
-      <link>http://localhost:1313/static/favicon/android-chrome-512x512.png</link>
+      <url>http://localhost:1313/images/og-cover.png</url>
+      <link>http://localhost:1313/images/og-cover.png</link>
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
