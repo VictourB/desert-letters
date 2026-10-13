@@ -11,7 +11,6 @@ filename = 'sitemap.xml'
 priority = 0.8
 
 [params]
-favicon = "favicon.ico"
 description = 'Personal essays, stories and reflections.'
 author = 'Victour'
 images = ['static/favicon/android-chrome-512x512.png'] # Default preview image for link shares
@@ -19,6 +18,17 @@ images = ['static/favicon/android-chrome-512x512.png'] # Default preview image f
 # Enable OpenGraph & Twitter Cards
 enableOpenGraph = true
 enableTwitterCards = true
+
+[params.assets]
+favicon = "favicon/favicon.ico"
+favicon16x16 = "favicon/favicon-16x16.png"
+favicon32x32 = "favicon/favicon-32x32.png"
+apple_touch_icon = "favicon/apple-touch-icon.png"
+
+[params.label]
+text = "Desert Letters"
+icon = "favicon/favicon-32x32.png"
+iconHeight = 30
 
 [params.homeInfoParams]
 Title = "Welcome to Desert Letters!"

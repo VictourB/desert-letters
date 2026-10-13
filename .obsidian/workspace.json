@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "public/favicon/android-chrome-192x192.png"
+                "file": "public/favicon/favicon-16x16.png"
               },
               "icon": "lucide-image",
-              "title": "android-chrome-192x192"
+              "title": "favicon-16x16"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.26171875
   },
   "right": {
     "id": "3de9f34de7554851",
@@ -188,6 +188,9 @@
   },
   "active": "384187b7790f2e93",
   "lastOpenFiles": [
+    "layouts/partials",
+    "layouts/partials/head.html",
+    "public/favicon/android-chrome-192x192.png",
     "public/favicon.ico",
     "public/favicon 1.ico",
     "public/favicon/favicon 1.ico",
@@ -197,19 +200,16 @@
     "static/favicon/android-chrome-512x512.png",
     "public/favicon/about.txt",
     "public/favicon/android-chrome-512x512.png",
-    "public/favicon/android-chrome-192x192.png",
     "public/favicon/site.webmanifest",
     "public/favicon/favicon.ico",
     "public/favicon/apple-touch-icon.png",
     "public/favicon",
     "content/posts/JohnnyFirespringCharacterSheet.md",
     "static/favicon/site.webmanifest",
-    "static/favicon/favicon.ico",
     "static/favicon/favicon-32x32.png",
     "static/favicon/favicon-16x16.png",
     "static/favicon/apple-touch-icon.png",
     "static/favicon/android-chrome-192x192.png",
-    "static/favicon/about.txt",
     "content/about.md",
     "misc/Tips for Blog Writing.md",
     "misc/Brainstorming Ideas.md",
