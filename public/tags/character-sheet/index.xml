@@ -4,6 +4,11 @@
     <title>Character-Sheet on Desert Letters</title>
     <link>http://localhost:1313/tags/character-sheet/</link>
     <description>Recent content in Character-Sheet on Desert Letters</description>
+    <image>
+      <title>Desert Letters</title>
+      <url>http://localhost:1313/static/favicon/android-chrome-512x512.png</url>
+      <link>http://localhost:1313/static/favicon/android-chrome-512x512.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Oct 2026 19:35:17 -0600</lastBuildDate>
@@ -13,9 +18,7 @@
       <link>http://localhost:1313/posts/johnnyfirespringcharactersheet/</link>
       <pubDate>Sun, 11 Oct 2026 19:35:17 -0600</pubDate>
       <guid>http://localhost:1313/posts/johnnyfirespringcharactersheet/</guid>
-      <description>&lt;h1 id=&#34;johnny-firespring-21st-birthday&#34;&gt;Johnny Firespring: 21st Birthday&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;“Wild Card Wanderer”&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;An original Freeside street rat. Johnny was raised in a disheveled second-story apartment. His mom died during childbirth, so he was raised by his father. They bummed around the more urban areas lining the outer edge of NCR territory. His father took whatever jobs he could to get ahead, but never did. When Johnny was 17, his dad was robbed and shot down right in front of their home. Johnny saw it happen through the small peephole and silently waited until the mugger had left before attempting to retrieve the body.&lt;/p&gt;</description>
+      <description>A Fallout New Vegas character sheet for Johnny Firespring, a young  hotheaded man with a lot to prove.</description>
     </item>
   </channel>
 </rss>

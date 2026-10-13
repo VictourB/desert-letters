@@ -5,6 +5,21 @@ title = 'Desert Letters'
 theme = 'papermod'
 
 
+[sitemap]
+changefreq = 'weekly'
+filename = 'sitemap.xml'
+priority = 0.8
+
+[params]
+favicon = "favicon.ico"
+description = 'Personal essays, stories and reflections.'
+author = 'Victour'
+images = ['static/favicon/android-chrome-512x512.png'] # Default preview image for link shares
+
+# Enable OpenGraph & Twitter Cards
+enableOpenGraph = true
+enableTwitterCards = true
+
 [params.homeInfoParams]
 Title = "Welcome to Desert Letters!"
 Content = "Hi, I'm Victour. I write stories, reviews, articles, or whatever else strikes me."

@@ -4,6 +4,11 @@
     <title>Desert Letters</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Desert Letters</description>
+    <image>
+      <title>Desert Letters</title>
+      <url>http://localhost:1313/static/favicon/android-chrome-512x512.png</url>
+      <link>http://localhost:1313/static/favicon/android-chrome-512x512.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Oct 2026 19:35:17 -0600</lastBuildDate>
