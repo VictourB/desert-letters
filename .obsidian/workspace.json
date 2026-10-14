@@ -11,12 +11,14 @@
             "id": "d99d37f657608505",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "public/favicon/favicon-16x16.png"
+                "file": "content/posts/sphere.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "favicon-16x16"
+              "icon": "lucide-file",
+              "title": "sphere"
             }
           }
         ]
@@ -81,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.26171875
+    "width": 286.26171875,
+    "collapsed": true
   },
   "right": {
     "id": "3de9f34de7554851",
@@ -186,30 +189,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "384187b7790f2e93",
+  "active": "d99d37f657608505",
   "lastOpenFiles": [
+    "public/tags/sphere/page/1/index.html",
+    "public/tags/sphere/page/1",
+    "public/tags/sphere/page",
+    "public/tags/sphere/index.xml",
+    "public/tags/sphere/index.html",
+    "public/tags/sphere",
+    "public/tags/review/page/1/index.html",
+    "public/tags/review/page/1",
+    "public/tags/review/page",
+    "public/tags/review/index.xml",
+    "public/tags/review/index.html",
+    "archetypes/default.md",
+    "content/posts/sphere.md",
+    "archetypes/default_old.md",
+    "public/favicon/favicon-16x16.png",
     "public/images/og-cover.png",
     "public/images/Earth (3).png",
     "static/images/og-cover.png",
-    "public/images",
-    "public/Untitled",
-    "static/images",
-    "layouts/partials",
-    "layouts/partials/head.html",
     "public/favicon/android-chrome-192x192.png",
-    "public/favicon.ico",
-    "public/favicon 1.ico",
-    "public/favicon/favicon 1.ico",
-    "static/favicon.ico",
     "public/favicon/favicon-32x32.png",
-    "public/favicon/favicon-16x16.png",
     "static/favicon/android-chrome-512x512.png",
-    "public/favicon/about.txt",
     "public/favicon/android-chrome-512x512.png",
     "public/favicon/apple-touch-icon.png",
     "content/posts/JohnnyFirespringCharacterSheet.md",
     "static/favicon/favicon-32x32.png",
-    "static/favicon/favicon-16x16.png",
     "content/about.md",
     "misc/Tips for Blog Writing.md",
     "misc/Brainstorming Ideas.md",

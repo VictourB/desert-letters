@@ -2,17 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-10-11T19:35:17-06:00</lastmod>
+    <loc>http://localhost:1313/categories/book-reviews/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/character-sheet/</loc>
-    <lastmod>2026-10-11T19:35:17-06:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/michael-crichton/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/novel/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/review/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/sphere/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/sphere/</loc>
+    <lastmod>2026-10-13T19:47:57-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/character-sheet/</loc>
     <lastmod>2026-10-11T19:35:17-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -33,16 +73,6 @@
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/tags/johnny-firespring/</loc>
-    <lastmod>2026-10-11T19:35:17-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-10-11T19:35:17-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-10-11T19:35:17-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
