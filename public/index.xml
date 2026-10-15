@@ -43,5 +43,24 @@
 &lt;p&gt;I want to blog, even if the medium has been thoroughly commodified. Expressing yourself online without a concern for image or money is almost unheard of nowadays, but I need this space to get some thoughts out of my head. The dangers of over-journaling are evident. It&amp;rsquo;s unhealthy to have so many thoughts alone; it&amp;rsquo;ll drive a man mad.&lt;/p&gt;
 &lt;p&gt;So this space is part idea board, part diary, part sanity check, part manifesto canvas, and part whatever else. Just a brief glimpse into my dark and twisted mind as I scream myself hoarse into the void of a billion faceless text boxes.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Have questions, comments, concerns, feedback, opportunities, or harassment? Send a message below or reach out directly.&lt;/p&gt;
+&lt;form action=&#34;https://api.web3forms.com/submit&#34; method=&#34;POST&#34; class=&#34;contact-form&#34;&gt; &lt;!-- Replace with your Access Key from Web3Forms --&gt; 
+&lt;input type=&#34;hidden&#34; name=&#34;apikey&#34; value=&#34;e28d7af0-2a25-45c9-a1d1-6b4d996d4939&#34;&gt; &lt;!-- Optional: Honeypot Spam Protection --&gt; 
+&lt;input type=&#34;checkbox&#34; name=&#34;botcheck&#34; class=&#34;hidden&#34; style=&#34;display: none;&#34;&gt; &lt;div class=&#34;form-group&#34; style=&#34;margin-bottom: 1rem;&#34;&gt; 
+&lt;label for=&#34;name&#34;&gt;Name&lt;/label&gt;
+&lt;br&gt; 
+&lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required style=&#34;width: 100%; max-width: 500px; padding: 8px; margin-top: 4px; border: 1px solid var(--border); border-radius: 6px; background: var(--entry); color: var(--primary); font-size: 1rem;&#34;&gt; 
+&lt;/div&gt; 
+&lt;div class=&#34;form-group&#34; style=&#34;margin-bottom: 1rem;&#34;&gt; &lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;&lt;br&gt; 
+&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required style=&#34;width: 100%; max-width: 500px; padding: 8px; margin-top: 4px; border: 1px solid var(--border); border-radius: 6px; background: var(--entry); color: var(--primary); font-size: 1rem;&#34;&gt; &lt;/div&gt;
+&lt;div class=&#34;form-group&#34; style=&#34;margin-bottom: 1rem;&#34;&gt; &lt;label for=&#34;message&#34;&gt;Message&lt;/label&gt;
+&lt;br&gt; 
+&lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;5&#34; required style=&#34;width: 100%; max-width: 500px; padding: 8px; margin-top: 4px; border: 1px solid var(--border); border-radius: 6px; background: var(--entry); color: var(--primary); font-size: 1rem;&#34;&gt;&lt;/textarea&gt; &lt;/div&gt; &lt;!-- Optional: Redirect after successful submission --&gt; &lt;!-- &lt;input type=&#34;hidden&#34; name=&#34;redirect&#34; value=&#34;https://yourdomain.us/thanks/&#34;&gt; --&gt; &lt;button type=&#34;submit&#34; style=&#34;padding: 10px 20px; border: 1px solid var(--border); border-radius: 6px; background: var(--tertiary); color: var(--primary); font-weight: 600; font-size: 1rem; cursor: pointer;&#34;&gt;Send Message&lt;/button&gt; &lt;/form&gt;</description>
+    </item>
   </channel>
 </rss>

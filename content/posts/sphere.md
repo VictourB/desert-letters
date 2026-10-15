@@ -91,8 +91,3 @@ Once the first character died, many of the other characters perished in quick su
 It makes this story delightfully unpredictable, but also makes it feel underexplored. I have a copy of *Airframe* sitting on my shelf, and I hope to make that my next Michael Crichton exploration.
 
 I also plan on checking out the (reportedly) middling film adaptation with Dustin Hoffman, Sharon Stone, and Samuel L. Jackson. 
-
-
-<!--previous post-->
-
-<!--Check out my [previous article]({{< ref "posts/my-first-post.md" >}}).-->

@@ -101,5 +101,9 @@
     <lastmod>2026-10-10T19:17:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
