@@ -1,7 +1,7 @@
 +++
 date = '2026-10-11T19:35:17-06:00'
 draft = false
-title = 'Johnny Firespring: 21st Birthday'
+title = 'Johnny Firespring'
 description = "A Fallout New Vegas character sheet for Johnny Firespring, a young  hotheaded man with a lot to prove."
 tags = ['falloutNV', 'character-sheet', 'Johnny-Firespring']
 categories = ['Fiction']
@@ -41,3 +41,5 @@ Johnny has a plan, and with it he will finally have enough to buy his way out of
 - LOVES MONEY
 - STRAIGHT
 - ENEMY OF THE KINGS
+
+Check out [Johnny's Story]({{< ref "posts/JohnnyFirespringStory" >}})

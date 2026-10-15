@@ -51,7 +51,7 @@ After being nursed back to health, strange things start to happen on the dark oc
 
 Through a series of deductions, they realize the computer code is actually an entity trying to communicate with them. This entity calls itself Jerry. Not only do they suspect that this entity originates from the sphere, but they also think that it is manifesting the creatures they are seeing.
 
-This is when tragedy strikes and one of the crewmen, (crew-women, to be precise), Jane Edmunds is swarmed by jellyfish while archiving the expeditions recordings. They chew through her diving suit and leave her dead. Painful screams ring through the intercom in her last final moments.
+This is when tragedy strikes and one of the crewmen, (crew-women, to be precise), Jane Edmunds is swarmed by jellyfish while archiving the expedition's recordings. They chew through her diving suit and leave her dead. Painful screams ring through the intercom in her last final moments.
 
 And if that wasn't enough, soon after, the entire habitat is attacked by a giant squid. Their life support is severely damaged and many of the remaining crew members die. Over the course of these marine manifestations, everyone is picked off except for Norman, Beth, and Harry. 
 

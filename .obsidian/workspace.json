@@ -11,12 +11,14 @@
             "id": "d99d37f657608505",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/images/og-cover.png"
+                "file": "content/posts/sphere.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "og-cover"
+              "icon": "lucide-file",
+              "title": "sphere"
             }
           }
         ]
@@ -186,26 +188,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "384187b7790f2e93",
+  "active": "d99d37f657608505",
   "lastOpenFiles": [
+    "content/posts/JohnnyFirespringStory.md",
     "content/posts/JohnnyFirespringCharacterSheet.md",
+    "public/tags/noir/page/1/index.html",
+    "public/tags/noir/page/1",
+    "public/tags/noir/page",
+    "public/tags/noir/index.xml",
+    "public/tags/noir/index.html",
+    "public/tags/noir",
+    "public/tags/fan-fic/page/1/index.html",
+    "public/tags/fan-fic/page/1",
+    "public/tags/fan-fic/page",
+    "public/tags/fan-fic/index.xml",
+    "{{<.md",
     "content/posts/sphere.md",
-    "public/tags/sphere/page/1/index.html",
-    "public/tags/sphere/page/1",
-    "public/tags/sphere/page",
-    "public/tags/sphere/index.xml",
-    "public/tags/sphere/index.html",
-    "public/tags/sphere",
-    "public/tags/review/page/1/index.html",
-    "public/tags/review/page/1",
-    "public/tags/review/page",
-    "public/tags/review/index.xml",
+    "static/images/og-cover.png",
     "archetypes/default.md",
     "archetypes/default_old.md",
     "public/favicon/favicon-16x16.png",
     "public/images/og-cover.png",
     "public/images/Earth (3).png",
-    "static/images/og-cover.png",
     "public/favicon/android-chrome-192x192.png",
     "public/favicon/favicon-32x32.png",
     "static/favicon/android-chrome-512x512.png",
