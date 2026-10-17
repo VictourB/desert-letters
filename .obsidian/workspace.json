@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Blog Tasks.md",
+                "file": "content/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blog Tasks"
+              "title": "about"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "d99d37f657608505",
   "lastOpenFiles": [
+    "content/contact.md",
+    "misc/Blog Tasks.md",
     "layouts/partials/comments.html",
     "content/posts/RachaelWintersCharacterSheet.md",
     "content/posts/JohnnyFirespringStory.md",
@@ -204,8 +206,6 @@
     "public/posts/spherereview/index.html",
     "public/posts/spherereview",
     "public/posts/rachaelwinterscharactersheet/index.html",
-    "public/posts/rachaelwinterscharactersheet",
-    "content/contact.md",
     "{{<.md",
     "content/about.md",
     "static/images/og-cover.png",
@@ -222,7 +222,6 @@
     "static/favicon/favicon-32x32.png",
     "misc/Tips for Blog Writing.md",
     "misc/Brainstorming Ideas.md",
-    "misc/Blog Tasks.md",
     "misc/Blog Intro Post.md",
     "misc/Platform for Fixing the Country.md",
     "content/posts/welcome.md",

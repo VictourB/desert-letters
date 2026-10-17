@@ -61,11 +61,11 @@
             
         - ~~**Plausible** or **Umami** (Minimal JS snippet, privacy-compliant, open-source).~~
             
-- **Static Commenting or Webmentions** (Optional):
+- ~~**Static Commenting or Webmentions** (Optional):~~
     
-    - _Why_: Receive feedback without bloated comment plugins like Disqus.
+    - ~~_Why_: Receive feedback without bloated comment plugins like Disqus.~~
         
-    - _How_: Use **Giscus** (uses GitHub Discussions for comment storage), **Remark42**, or standard **Webmentions** (`indieweb.org`).
+    - ~~_How_: Use **Giscus** (uses GitHub Discussions for comment storage), **Remark42**, or standard **Webmentions** (`indieweb.org`).~~
         
 
 ## 4. Performance & Reliability

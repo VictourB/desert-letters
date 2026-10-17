@@ -2,6 +2,7 @@
 date = '2026-10-10T19:17:06-06:00'
 draft = false
 title = 'Welcome & About'
+comments = false
 +++
 
 ### Why Even? 

@@ -2,6 +2,7 @@
 title = 'Contact'
 draft = false
 hidemeta = true
+comments = false
 +++
 
 Have questions, comments, concerns, feedback, opportunities, or harassment? Send a message below.
