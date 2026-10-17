@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/contact.md",
+                "file": "content/posts/RachaelWintersCharacterSheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contact"
+              "title": "RachaelWintersCharacterSheet"
             }
           }
         ]
@@ -190,21 +190,23 @@
   },
   "active": "d99d37f657608505",
   "lastOpenFiles": [
-    "content/posts/sphere.md",
-    "content/contact.md",
-    "public/contact/index.html",
-    "public/contact",
     "content/posts/JohnnyFirespringStory.md",
     "content/posts/JohnnyFirespringCharacterSheet.md",
-    "public/tags/noir/page/1/index.html",
-    "public/tags/noir/page/1",
-    "public/tags/noir/page",
-    "public/tags/noir/index.xml",
-    "public/tags/noir/index.html",
-    "public/tags/noir",
-    "public/tags/fan-fic/page/1/index.html",
-    "public/tags/fan-fic/page/1",
+    "content/posts/RachaelWintersCharacterSheet.md",
+    "content/posts/SphereReview.md",
+    "public/tags/rachael-winters/page/1/index.html",
+    "public/tags/rachael-winters/page/1",
+    "public/tags/rachael-winters/page",
+    "public/tags/rachael-winters/index.xml",
+    "public/tags/rachael-winters/index.html",
+    "public/tags/rachael-winters",
+    "public/posts/spherereview/index.html",
+    "public/posts/spherereview",
+    "public/posts/rachaelwinterscharactersheet/index.html",
+    "public/posts/rachaelwinterscharactersheet",
+    "content/contact.md",
     "{{<.md",
+    "content/about.md",
     "static/images/og-cover.png",
     "archetypes/default.md",
     "archetypes/default_old.md",
@@ -217,7 +219,6 @@
     "public/favicon/android-chrome-512x512.png",
     "public/favicon/apple-touch-icon.png",
     "static/favicon/favicon-32x32.png",
-    "content/about.md",
     "misc/Tips for Blog Writing.md",
     "misc/Brainstorming Ideas.md",
     "misc/Blog Tasks.md",

@@ -11,21 +11,28 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:39:53 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:54:09 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/fiction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FalloutNV: Rachael Winters</title>
+      <link>http://localhost:1313/posts/rachaelwinterscharactersheet/</link>
+      <pubDate>Sat, 17 Oct 2026 12:54:09 -0600</pubDate>
+      <guid>http://localhost:1313/posts/rachaelwinterscharactersheet/</guid>
+      <description>A Fallout New Vegas character sheet for Rachael Winters, a directionless woman in her thirties plastered with blood and guilt.</description>
+    </item>
     <item>
       <title>Johnny Firespring: Persona Non Grata</title>
       <link>http://localhost:1313/posts/johnnyfirespringstory/</link>
       <pubDate>Wed, 14 Oct 2026 19:39:53 -0600</pubDate>
       <guid>http://localhost:1313/posts/johnnyfirespringstory/</guid>
-      <description>The troubled origins of Johnny Firespring and the desire for wealth at all costs.</description>
+      <description>The troubled origins of a young man and the desire for wealth at all costs.</description>
     </item>
     <item>
-      <title>Johnny Firespring</title>
+      <title>FalloutNV: Johnny Firespring</title>
       <link>http://localhost:1313/posts/johnnyfirespringcharactersheet/</link>
       <pubDate>Sun, 11 Oct 2026 19:35:17 -0600</pubDate>
       <guid>http://localhost:1313/posts/johnnyfirespringcharactersheet/</guid>
-      <description>A Fallout New Vegas character sheet for Johnny Firespring, a young  hotheaded man with a lot to prove.</description>
+      <description>A Fallout New Vegas character sheet for the 21 years-old Johnny Firespring, a young  hotheaded man with a lot to prove.</description>
     </item>
   </channel>
 </rss>

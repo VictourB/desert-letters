@@ -1,13 +1,13 @@
 +++
 date = '2026-10-11T19:35:17-06:00'
 draft = false
-title = 'Johnny Firespring'
-description = "A Fallout New Vegas character sheet for Johnny Firespring, a young  hotheaded man with a lot to prove."
+title = 'FalloutNV: Johnny Firespring'
+description = "A Fallout New Vegas character sheet for the 21 year-old Johnny Firespring, a young hotheaded man with a lot to prove."
 tags = ['falloutNV', 'character-sheet', 'Johnny-Firespring']
 categories = ['Fiction']
 +++
 
-_“The Wild Card Wanderer”_
+# _“The Wild Card Wanderer”_
 
 An original Freeside street rat. Johnny was raised in a disheveled second-story apartment. His mom died during childbirth, so he was raised by his father. 
 
@@ -29,7 +29,7 @@ Johnny has a plan, and with it he will finally have enough to buy his way out of
 | Agility      | 6   |
 | Luck         | 9   |
 
-- TAG: Speech, Barter, Lockpick
+- TAGS: Speech, Barter, Lockpick
 - TRAITS: Hot Blooded, Fast Shot
 <br>
 ## Modifiers:

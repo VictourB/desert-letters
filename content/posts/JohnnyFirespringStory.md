@@ -2,7 +2,7 @@
 title = 'Johnny Firespring: Persona Non Grata'
 date = 2026-10-14T19:39:53-06:00
 draft = false
-description = 'The troubled origins of Johnny Firespring and the desire for wealth at all costs.'
+description = 'The troubled origins of a young man and the desire for wealth at all costs.'
 tags = ['falloutNV', 'fiction', 'fan-fic', 'noir', 'Johnny-Firespring']
 categories = ['Fiction']
 +++

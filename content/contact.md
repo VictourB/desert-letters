@@ -4,7 +4,7 @@ draft = false
 hidemeta = true
 +++
 
-Have questions, comments, concerns, feedback, opportunities, or harassment? Send a message below or reach out directly. 
+Have questions, comments, concerns, feedback, opportunities, or harassment? Send a message below.
 
 <form action="https://api.web3forms.com/submit" method="POST" class="contact-form"> <!-- Replace with your Access Key from Web3Forms --> 
 <input type="hidden" name="apikey" value="e28d7af0-2a25-45c9-a1d1-6b4d996d4939"> <!-- Optional: Honeypot Spam Protection --> 

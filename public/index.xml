@@ -11,28 +11,35 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:39:53 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:54:09 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FalloutNV: Rachael Winters</title>
+      <link>http://localhost:1313/posts/rachaelwinterscharactersheet/</link>
+      <pubDate>Sat, 17 Oct 2026 12:54:09 -0600</pubDate>
+      <guid>http://localhost:1313/posts/rachaelwinterscharactersheet/</guid>
+      <description>A Fallout New Vegas character sheet for Rachael Winters, a directionless woman in her thirties plastered with blood and guilt.</description>
+    </item>
     <item>
       <title>Johnny Firespring: Persona Non Grata</title>
       <link>http://localhost:1313/posts/johnnyfirespringstory/</link>
       <pubDate>Wed, 14 Oct 2026 19:39:53 -0600</pubDate>
       <guid>http://localhost:1313/posts/johnnyfirespringstory/</guid>
-      <description>The troubled origins of Johnny Firespring and the desire for wealth at all costs.</description>
+      <description>The troubled origins of a young man and the desire for wealth at all costs.</description>
     </item>
     <item>
       <title>Thoughts on Michael Crichton&#39;s Sphere (1987)</title>
-      <link>http://localhost:1313/posts/sphere/</link>
+      <link>http://localhost:1313/posts/spherereview/</link>
       <pubDate>Tue, 13 Oct 2026 19:47:57 -0600</pubDate>
-      <guid>http://localhost:1313/posts/sphere/</guid>
+      <guid>http://localhost:1313/posts/spherereview/</guid>
       <description>Review of the novel Sphere by Michael Crichton.</description>
     </item>
     <item>
-      <title>Johnny Firespring</title>
+      <title>FalloutNV: Johnny Firespring</title>
       <link>http://localhost:1313/posts/johnnyfirespringcharactersheet/</link>
       <pubDate>Sun, 11 Oct 2026 19:35:17 -0600</pubDate>
       <guid>http://localhost:1313/posts/johnnyfirespringcharactersheet/</guid>
-      <description>A Fallout New Vegas character sheet for Johnny Firespring, a young  hotheaded man with a lot to prove.</description>
+      <description>A Fallout New Vegas character sheet for the 21 year-old Johnny Firespring, a young hotheaded man with a lot to prove.</description>
     </item>
     <item>
       <title>Welcome &amp; About</title>
@@ -48,7 +55,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;Have questions, comments, concerns, feedback, opportunities, or harassment? Send a message below or reach out directly.&lt;/p&gt;
+      <description>&lt;p&gt;Have questions, comments, concerns, feedback, opportunities, or harassment? Send a message below.&lt;/p&gt;
 &lt;form action=&#34;https://api.web3forms.com/submit&#34; method=&#34;POST&#34; class=&#34;contact-form&#34;&gt; &lt;!-- Replace with your Access Key from Web3Forms --&gt; 
 &lt;input type=&#34;hidden&#34; name=&#34;apikey&#34; value=&#34;e28d7af0-2a25-45c9-a1d1-6b4d996d4939&#34;&gt; &lt;!-- Optional: Honeypot Spam Protection --&gt; 
 &lt;input type=&#34;checkbox&#34; name=&#34;botcheck&#34; class=&#34;hidden&#34; style=&#34;display: none;&#34;&gt; &lt;div class=&#34;form-group&#34; style=&#34;margin-bottom: 1rem;&#34;&gt; 
