@@ -12,6 +12,10 @@ I want to blog, even if the medium has been thoroughly commodified. Expressing y
 So this space is part idea board, part diary, part sanity check, part manifesto canvas, and part whatever else. Just a brief glimpse into my dark and twisted mind as I scream myself hoarse into the void of a billion faceless text boxes.">
 <meta name="author" content="Victour">
 <link rel="canonical" href="http://localhost:1313/about/">
+
+
+<link rel="webmention" href="https://webmention.io/desertletters.us/webmention" />
+<link rel="pingback" href="https://webmention.io/desertletters.us/xmlrpc" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.1edfa2e6b5f37ca24952639cea9edc5be69cc0a830aed9c644898fc2f76653e1.css" integrity="sha256-Ht&#43;i5rXzfKJJUmOc6p7cW&#43;acwKgwrtnGRImPwvdmU&#43;E=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon/favicon-16x16.png">
@@ -116,13 +120,19 @@ So this space is part idea board, part diary, part sanity check, part manifesto 
 
 <article class="post-single">
   <header class="post-header">
-    
+    <nav class="breadcrumbs" role="navigation" aria-label="Breadcrumb">
+            <a href="/">Home</a>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+        <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+</nav>
     <h1 class="post-title entry-hint-parent">
       Welcome &amp; About
     </h1>
     <div class="post-meta">
 
-<span title='2026-10-10 19:17:06 -0600 MDT'>October 10, 2026</span>&nbsp;·&nbsp;<span>Victour</span>
+<span title='2026-10-10 19:17:06 -0600 MDT'>October 10, 2026</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>Victour</span>
 
 </div>
   </header> 
@@ -155,7 +165,47 @@ So this space is part idea board, part diary, part sanity check, part manifesto 
   <footer class="post-footer">
     <ul class="post-tags">
     </ul>
-  </footer>
+
+  </footer><section class="interaction-container" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+
+  
+  <div id="webmentions" style="margin-bottom: 2.5rem;">
+    <h3>Webmentions & Responses</h3>
+    <p style="font-size: 0.9rem; opacity: 0.8;">
+      Have a blog or Mastodon account? Mention this URL in your post to submit a Webmention!
+    </p>
+    
+    <div id="webmentions-list"></div>
+  </div>
+
+  
+  <div id="giscus-comments">
+    <h3>Discussion</h3>
+    
+    <script src="https://giscus.app/client.js"
+        data-repo="VictourB/desert-letters"
+        data-repo-id="R_kgDOVEVF0w"
+        data-category="General"
+        data-category-id="DIC_kwDOVEVF084DIx7-"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+    </script>
+  </div>
+
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/webmention.js@0.5.5/webmention.min.js"
+        data-target-id="webmentions-list"
+        async>
+</script>
 </article>
     </main>
     
@@ -236,6 +286,53 @@ So this space is part idea board, part diary, part sanity check, part manifesto 
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

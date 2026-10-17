@@ -19,6 +19,17 @@ images = ['images/og-cover.png'] # Default preview image for link shares
 enableOpenGraph = true
 enableTwitterCards = true
 
+# Enable reading time calculation on posts
+ShowReadingTime = true
+
+# Ensure post metadata is enabled so reading time can display
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
+hideMeta = false
+comments = true
+
 [params.assets]
 favicon = "favicon/favicon.ico"
 favicon16x16 = "favicon/favicon-16x16.png"
@@ -38,8 +49,16 @@ Content = "Hi, I'm Victour. I write stories, reviews, articles, or whatever else
 name = "github"
 url = "https://github.com/VictourB"
 
+[[params.socialIcons]]
+name = 'RSS'
+url = '/index.xml'
+
 [markup.goldmark.renderer]
 unsafe = true
+
+[markup.highlight]
+style = 'dracula'
+lineNos = true
 
 [[menu.main]]
 name = "Welcome"
