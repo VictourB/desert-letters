@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/RachaelWintersStory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "RachaelWintersStory"
             }
           }
         ]
@@ -190,12 +190,18 @@
   },
   "active": "d99d37f657608505",
   "lastOpenFiles": [
-    "content/contact.md",
-    "misc/Blog Tasks.md",
-    "layouts/partials/comments.html",
-    "content/posts/RachaelWintersCharacterSheet.md",
     "content/posts/JohnnyFirespringStory.md",
+    "content/posts/RachaelWintersStory.md",
+    "content/posts/RachaelWintersCharacterSheet.md",
+    "public/posts/rachaelwintersstory/index.html",
+    "public/posts/rachaelwintersstory",
+    "{{<.md",
     "content/posts/JohnnyFirespringCharacterSheet.md",
+    "misc/Tips for Blog Writing.md",
+    "misc/Blog Tasks.md",
+    "content/about.md",
+    "content/contact.md",
+    "layouts/partials/comments.html",
     "content/posts/SphereReview.md",
     "public/tags/rachael-winters/page/1/index.html",
     "public/tags/rachael-winters/page/1",
@@ -204,10 +210,6 @@
     "public/tags/rachael-winters/index.html",
     "public/tags/rachael-winters",
     "public/posts/spherereview/index.html",
-    "public/posts/spherereview",
-    "public/posts/rachaelwinterscharactersheet/index.html",
-    "{{<.md",
-    "content/about.md",
     "static/images/og-cover.png",
     "archetypes/default.md",
     "archetypes/default_old.md",
@@ -220,7 +222,6 @@
     "public/favicon/android-chrome-512x512.png",
     "public/favicon/apple-touch-icon.png",
     "static/favicon/favicon-32x32.png",
-    "misc/Tips for Blog Writing.md",
     "misc/Brainstorming Ideas.md",
     "misc/Blog Intro Post.md",
     "misc/Platform for Fixing the Country.md",

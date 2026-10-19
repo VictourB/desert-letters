@@ -7,9 +7,7 @@ tags = ['falloutNV', 'fiction', 'fan-fic', 'noir', 'Johnny-Firespring']
 categories = ['Fiction']
 +++
 
-<!-- Summary paragraph (1-2 sentences). Used by Hugo and RSS feeds. -->
-
-_Six bullets for four friends, the math of the Mojave._ 
+# _Six bullets for four friends, the math of the Mojave._ 
 
 <!--more-->
 
