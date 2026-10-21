@@ -11,8 +11,43 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 19:25:31 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:10:02 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marcus-Aurelius</title>
+      <link>http://localhost:1313/tags/marcus-aurelius/</link>
+      <pubDate>Tue, 20 Oct 2026 19:10:02 -0600</pubDate>
+      <guid>http://localhost:1313/tags/marcus-aurelius/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/tags/philosophy/</link>
+      <pubDate>Tue, 20 Oct 2026 19:10:02 -0600</pubDate>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rome</title>
+      <link>http://localhost:1313/tags/rome/</link>
+      <pubDate>Tue, 20 Oct 2026 19:10:02 -0600</pubDate>
+      <guid>http://localhost:1313/tags/rome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Help</title>
+      <link>http://localhost:1313/tags/self-help/</link>
+      <pubDate>Tue, 20 Oct 2026 19:10:02 -0600</pubDate>
+      <guid>http://localhost:1313/tags/self-help/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stoicism</title>
+      <link>http://localhost:1313/tags/stoicism/</link>
+      <pubDate>Tue, 20 Oct 2026 19:10:02 -0600</pubDate>
+      <guid>http://localhost:1313/tags/stoicism/</guid>
+      <description></description>
+    </item>
     <item>
       <title>FalloutNV</title>
       <link>http://localhost:1313/tags/falloutnv/</link>
@@ -35,17 +70,10 @@
       <description></description>
     </item>
     <item>
-      <title>Johnny-Firespring</title>
-      <link>http://localhost:1313/tags/johnny-firespring/</link>
+      <title>Rachael-Winters</title>
+      <link>http://localhost:1313/tags/rachael-winters/</link>
       <pubDate>Sun, 18 Oct 2026 19:25:31 -0600</pubDate>
-      <guid>http://localhost:1313/tags/johnny-firespring/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Noir</title>
-      <link>http://localhost:1313/tags/noir/</link>
-      <pubDate>Sun, 18 Oct 2026 19:25:31 -0600</pubDate>
-      <guid>http://localhost:1313/tags/noir/</guid>
+      <guid>http://localhost:1313/tags/rachael-winters/</guid>
       <description></description>
     </item>
     <item>
@@ -56,10 +84,17 @@
       <description></description>
     </item>
     <item>
-      <title>Rachael-Winters</title>
-      <link>http://localhost:1313/tags/rachael-winters/</link>
-      <pubDate>Sat, 17 Oct 2026 12:54:09 -0600</pubDate>
-      <guid>http://localhost:1313/tags/rachael-winters/</guid>
+      <title>Johnny-Firespring</title>
+      <link>http://localhost:1313/tags/johnny-firespring/</link>
+      <pubDate>Wed, 14 Oct 2026 19:39:53 -0600</pubDate>
+      <guid>http://localhost:1313/tags/johnny-firespring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Noir</title>
+      <link>http://localhost:1313/tags/noir/</link>
+      <pubDate>Wed, 14 Oct 2026 19:39:53 -0600</pubDate>
+      <guid>http://localhost:1313/tags/noir/</guid>
       <description></description>
     </item>
     <item>

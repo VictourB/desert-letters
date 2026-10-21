@@ -3,7 +3,7 @@ title = 'Rachael Winters: Rude Awakening'
 date = 2026-10-18T19:25:31-06:00
 draft = false
 description = 'Rachael wakes to find reality might be worse than nightmares.'
-tags = ['falloutNV', 'fiction', 'fan-fic', 'noir', 'Johnny-Firespring']
+tags = ['falloutNV', 'fiction', 'fan-fic', 'Rachael-Winters']
 categories = ['Fiction']
 +++
 
