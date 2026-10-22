@@ -47,4 +47,4 @@ The rest of his walk was marked by a special kind of peace. The Freeside lights 
 
 <!--previous post-->
 
-Check out [Johnny's Character Sheet.]({{< ref "posts/JohnnyFirespringCharacterSheet" >}})
+Check out [Johnny's Character Sheet.]({{< ref "posts/fiction/FalloutNVCharacters/JohnnyFirespringCharacterSheet" >}})

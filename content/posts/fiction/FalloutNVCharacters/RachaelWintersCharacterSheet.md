@@ -39,4 +39,4 @@ After that, she lucked out and found a courier gig. It paid more than enough, an
 - BI
 - BAD CHOICE IN FRIENDS
 
-Check out [Rachael's Story]({{< ref "posts/RachaelWintersStory" >}})
+Check out [Rachael's Story]({{< ref "posts/fiction/RachaelWintersStory" >}})

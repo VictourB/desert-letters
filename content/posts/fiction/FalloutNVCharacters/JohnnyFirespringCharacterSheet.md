@@ -42,4 +42,4 @@ Johnny has a plan, and with it he will finally have enough to buy his way out of
 - STRAIGHT
 - ENEMY OF THE KINGS
 
-Check out [Johnny's Story]({{< ref "posts/JohnnyFirespringStory" >}})
+Check out [Johnny's Story]({{< ref "posts/fiction/JohnnyFirespringStory" >}})

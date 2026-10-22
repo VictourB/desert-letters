@@ -15,16 +15,16 @@
     <atom:link href="http://localhost:1313/tags/johnny-firespring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Johnny Firespring: Persona Non Grata</title>
-      <link>http://localhost:1313/posts/johnnyfirespringstory/</link>
+      <link>http://localhost:1313/posts/fiction/johnnyfirespringstory/</link>
       <pubDate>Wed, 14 Oct 2026 19:39:53 -0600</pubDate>
-      <guid>http://localhost:1313/posts/johnnyfirespringstory/</guid>
+      <guid>http://localhost:1313/posts/fiction/johnnyfirespringstory/</guid>
       <description>The troubled origins of a young man and the desire for wealth at all costs.</description>
     </item>
     <item>
       <title>FalloutNV: Johnny Firespring</title>
-      <link>http://localhost:1313/posts/johnnyfirespringcharactersheet/</link>
+      <link>http://localhost:1313/posts/fiction/falloutnvcharacters/johnnyfirespringcharactersheet/</link>
       <pubDate>Sun, 11 Oct 2026 19:35:17 -0600</pubDate>
-      <guid>http://localhost:1313/posts/johnnyfirespringcharactersheet/</guid>
+      <guid>http://localhost:1313/posts/fiction/falloutnvcharacters/johnnyfirespringcharactersheet/</guid>
       <description>A Fallout New Vegas character sheet for the 21 year-old Johnny Firespring, a young hotheaded man with a lot to prove.</description>
     </item>
   </channel>

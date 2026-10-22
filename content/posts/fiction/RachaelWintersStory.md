@@ -41,4 +41,4 @@ She doesn't sleep. She has nothing to eat. Hot tears in her eyes keep the desert
 
 She glances out at the Lucky 38 far off on the desert horizon, with its white concrete tower, golden lights, and shimmering, intact glass. She envisions that far-off life—free from the constant shaking from Jet withdrawals, free from the festering memories of her dead friends. She thinks about her mother and father and wishes they were alive, but what would they think of her? She’s a pathetic junkie. More messy tears well up from behind her eyes. Soft sobs echo from the urban ruins like lone coyote howls.
 
-Check out [Rachael's Character Sheet.]({{< ref "posts/RachaelWintersCharacterSheet" >}})
+Check out [Rachael's Character Sheet.]({{< ref "posts/fiction/FalloutNVCharacters/RachaelWintersCharacterSheet" >}})
