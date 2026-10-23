@@ -3,36 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-10-21T20:10:03-06:00</lastmod>
+    <lastmod>2026-10-22T21:10:45-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/character-sheet/</loc>
+    <lastmod>2026-10-22T21:10:45-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-21T20:10:03-06:00</lastmod>
+    <lastmod>2026-10-22T21:10:45-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/tags/falloutnv/</loc>
-    <lastmod>2026-10-21T20:10:03-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/fan-fic/</loc>
-    <lastmod>2026-10-21T20:10:03-06:00</lastmod>
+    <lastmod>2026-10-22T21:10:45-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/categories/fiction/</loc>
-    <lastmod>2026-10-21T20:10:03-06:00</lastmod>
+    <lastmod>2026-10-22T21:10:45-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/fiction/falloutnvcharacters/gaiusoctaviancharactersheet/</loc>
+    <lastmod>2026-10-22T21:10:45-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/gaius-octavian-macrinus/</loc>
+    <lastmod>2026-10-22T21:10:45-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-10-21T20:10:03-06:00</lastmod>
+    <lastmod>2026-10-22T21:10:45-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-10-22T21:10:45-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/fan-fic/</loc>
     <lastmod>2026-10-21T20:10:03-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -89,11 +104,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/rachael-winters/</loc>
     <lastmod>2026-10-18T19:25:31-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/character-sheet/</loc>
-    <lastmod>2026-10-17T12:54:09-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>

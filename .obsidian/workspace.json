@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/fiction/West of Flagstaff/ChapterI/index.md",
+                "file": "content/posts/fiction/FalloutNVCharacters/GaiusOctavianCharacterSheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "GaiusOctavianCharacterSheet"
             }
           }
         ]
@@ -190,25 +190,26 @@
   },
   "active": "d99d37f657608505",
   "lastOpenFiles": [
-    "content/posts/philosophy/LessonsfromMeditationsbook1/index.md",
+    "content/posts/fiction/FalloutNVCharacters/JohnnyFirespringCharacterSheet.md",
+    "content/posts/fiction/FalloutNVCharacters/GaiusOctavianCharacterSheet.md",
+    "content/posts/fiction/FalloutNVCharacters/RachaelWintersCharacterSheet.md",
+    "public/tags/gaius-octavian-macrinus/page/1/index.html",
+    "public/tags/gaius-octavian-macrinus/page/1",
+    "public/tags/gaius-octavian-macrinus/page",
+    "public/tags/gaius-octavian-macrinus/index.xml",
+    "public/tags/gaius-octavian-macrinus/index.html",
+    "public/tags/gaius-octavian-macrinus",
+    "public/posts/fiction/falloutnvcharacters/gaiusoctaviancharactersheet/index.html",
+    "public/posts/fiction/falloutnvcharacters/gaiusoctaviancharactersheet",
     "content/posts/fiction/West of Flagstaff/ChapterI/index.md",
+    "content/posts/philosophy/LessonsfromMeditationsbook1/index.md",
     "public/posts/fiction/west-of-flagstaff/chapteri/cover.jpg",
     "public/posts/fiction/west-of-flagstaff/chapteri/IMG_20241206_160418957_HDR.jpg",
     "misc/Content Calendar.md",
-    "content/posts/fiction/FalloutNVCharacters/RachaelWintersCharacterSheet.md",
     "content/posts/fiction/JohnnyFirespringStory.md",
     "content/posts/fiction/RachaelWintersStory.md",
-    "content/posts/fiction/FalloutNVCharacters/JohnnyFirespringCharacterSheet.md",
     "public/posts/fiction/johnnyfirespringstory/index.html",
     "public/posts/fiction/johnnyfirespringstory",
-    "public/posts/fiction/west-of-flagstaff/chapteri/index.html",
-    "public/posts/fiction/falloutnvcharacters/rachaelwinterscharactersheet/index.html",
-    "public/posts/fiction/falloutnvcharacters/johnnyfirespringcharactersheet/index.html",
-    "public/posts/fiction/west-of-flagstaff/chapteri",
-    "public/posts/fiction/rachaelwintersstory/index.html",
-    "public/posts/fiction/falloutnvcharacters/rachaelwinterscharactersheet",
-    "public/posts/fiction/falloutnvcharacters/johnnyfirespringcharactersheet",
-    "public/posts/fiction/west-of-flagstaff",
     "misc/Platform for Fixing the Country.md",
     "misc/Blog Tasks.md",
     "misc/Brainstorming Ideas.md",
@@ -233,7 +234,6 @@
     "assets/css/extended.css.md",
     "assets/css.md",
     "content/posts/test-post.md",
-    "themes/papermod/README.md",
-    "file:/home/main/Documents/Desert Letters (old)/Blog Tasks.md"
+    "themes/papermod/README.md"
   ]
 }
