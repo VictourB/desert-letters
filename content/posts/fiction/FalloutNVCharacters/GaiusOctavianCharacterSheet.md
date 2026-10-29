@@ -1,7 +1,7 @@
 +++
 title = 'FalloutNV: Gaius Octavian Marcinus'
 date = 2026-10-22T21:10:45-06:00
-draft = true
+draft = false
 description = 'A Fallout New Vegas character sheet for Gaius Octavian, A fragmented legion deserter with burning anger and an unknown destiny.'
 tags = ['falloutNV', 'character-sheet', 'Gaius-Octavian-Macrinus']
 categories = ['Fiction']
